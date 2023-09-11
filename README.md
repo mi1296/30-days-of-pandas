@@ -1,5 +1,5 @@
 ## About
-I successfully completed the "30 Days of Pandas" study plan on [Leetcode](https://leetcode.com/studyplan/30-days-of-pandas/), and I'm excited to share my experience. This comprehensive plan covered essential topics commonly asked in pandas interviews. Prior to diving into this plan, I ensured that I had a solid foundation in **Python**, including knowledge of **syntax**, **data types**, **conditional statements**, **loops**, **functions**, and **lists**.
+I successfully completed the "30 Days of Pandas" study plan on [Leetcode](https://leetcode.com/studyplan/30-days-of-pandas/), during the month of August 2023, and I'm excited to share my experience. This comprehensive plan covered essential topics commonly asked in pandas interviews. Prior to diving into this plan, I ensured that I had a solid foundation in **Python**, including knowledge of **syntax**, **data types**, **conditional statements**, **loops**, **functions**, and **lists**.
 
 Over the course of 30 days, I embarked on a journey that started with basic **data operations**, such as **handling missing values**, and gradually progressed to more intermediate concepts, including conducting **intricate statistical calculations**. This study plan provided me with a deep understanding of pandas, a powerful library for **data manipulation** and analysis in Python.
 
